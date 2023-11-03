@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500&family=Roboto+Condensed:wght@400;700&family=Roboto:ital,wght@0,300;0,400;1,100;1,300&display=swap");
+/* fondos */
+.bg-pink {
+  background-color: deeppink;
+  color: white;
+}
+
+h1, h2, h3 {
+  color: #ff1493;
+  font-weight: 100;
+}
+
+h1 {
+  font-weight: 500;
+}
+
+h2 {
+  font-weight: 400;
+}
+
+h3 {
+  font-weight: 300;
+}
+
+/* inicia nav */
+.botonera {
+  background-color: #ff1493;
+}
+.botonera img {
+  width: 150px;
+}
+.botonera a {
+  color: rgb(239, 237, 237);
+}
+.botonera svg {
+  width: 30px;
+  fill: rgb(239, 237, 237);
+}
+
+.filters button {
+  border: none;
+  background-color: #ff1493;
+  border-radius: 8px;
+  padding: 4px 8px;
+}
+.filters svg {
+  width: 20px;
+  fill: rgb(239, 237, 237);
+}
+.filters input {
+  border-radius: 8px;
+}
+
+/*# sourceMappingURL=style.css.map */
